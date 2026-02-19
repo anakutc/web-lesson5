@@ -54,6 +54,8 @@
   line-height: 100%;
   letter-spacing: 0%;
   padding-bottom: 6px;
+  font-family: "Yellowtail", cursive;
+  font-style: normal;
 }
 
 .market{
@@ -63,6 +65,7 @@
   line-height: 100%;
   letter-spacing: 0%;
   padding-bottom: 25px;
+  font-family: 'Roboto Condensed';
 }
 
 .span1{
